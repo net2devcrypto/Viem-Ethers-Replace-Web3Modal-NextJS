@@ -46,7 +46,7 @@ import { polygonMumbai } from "viem/chains";
 ```
 Save file.
 
-<h3>Step 3/h3>
+<h3>Step 3</h3>
 
 import the function where needed:
 
